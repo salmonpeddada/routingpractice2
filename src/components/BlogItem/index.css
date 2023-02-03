@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
